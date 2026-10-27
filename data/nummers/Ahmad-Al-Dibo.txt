@@ -1,3 +1,3 @@
-# Ahmad Al Dibo
+# Ahmad Al Dibos
 # ldjes formaat: ldNaam;auther;time
 lidnaam;Ahmad Al Dibo;00:00
