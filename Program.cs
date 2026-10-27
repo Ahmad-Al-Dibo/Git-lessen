@@ -3,7 +3,8 @@ using Playlist;
 Console.WriteLine("Welkom bij Playlist, de playlist van de klas");
 Console.WriteLine();
 
-var nummers = PlaylistLader.LaadUitMap(Path.Combine("data", "nummers"));
+var mapMetNummers = Path.Combine(AppContext.BaseDirectory, "data", "nummers");
+var nummers = PlaylistLader.LaadUitMap(mapMetNummers);
 
 foreach (var nummer in nummers)
 {
