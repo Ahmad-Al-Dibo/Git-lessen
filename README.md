@@ -1,2 +1,2 @@
-# Git-lessen
-Lessenserie voor Git te oefenen
+# Playlist
+console app voor nummers. werkt met dotnet.
